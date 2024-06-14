@@ -7,12 +7,18 @@
 ### Word counter
 
 A program fully hard coded to count the number of characters, words, sentences and paragraphs.
+
+ -----------------
 ![screenshot](images/word_counter_img.jpg)
+ -----------------
 
 ### Algorithm implementation
 
 A fully hard coded implementation of the binary search algorithm.
+
+ -----------------
 ![screenshot](images/binary_search_img.jpg)
+ -----------------
 
 
 # Dependencies
