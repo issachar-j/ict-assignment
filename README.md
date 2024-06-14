@@ -19,18 +19,17 @@ A fully hard coded implementation of the binary search algorithm.
 | Customtkinter |
 | ------------- |
 
-### Tips :Blogposts:
-- Install Python from www.python.org
-- Have a running environment 
-
 ```bash
 pip install customtkinter
 ```
+### Tips ~ Blogposts
+- Install Python from www.python.org
+- Have a running environment 
 
 # [Github Repository](https://github.com/issachar-j/ict-assignment.git)
 
 # Team (linked to telegram)
-- Yisakor Eyob (https://t.me/Issachar_0)
-- Nathan Bekele (https://t.me/Nate_bt)
-- Medan Zelealem (https://t.me/LoveisJesus7)
-- Arsema Haileysus (https://t.me/T2e7mT1e9k)
+- [Yisakor Eyob](https://t.me/Issachar_0)
+- [Nathan Bekele](https://t.me/Nate_bt)
+- [Medan Zelealem](https://t.me/LoveisJesus7)
+- [Arsema Haileysus](https://t.me/T2e7mT1e9k)
