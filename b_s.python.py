@@ -1,3 +1,6 @@
+# Algorithm implementation
+# Our team have chosen binary search
+
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import *

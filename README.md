@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 
-### Word counter
+### Word counter 📖
 
 A program fully hard coded to count the number of characters, words, sentences and paragraphs.
 
@@ -12,16 +12,16 @@ A program fully hard coded to count the number of characters, words, sentences a
 ![screenshot](images/word_counter_img.jpg)
  -----------------
 
-### Algorithm implementation
+### Algorithm implementation -- Binary Search 🔍
 
-A fully hard coded implementation of the binary search algorithm.
+A fully hard coded implementation of the binary search algorithm using python.
 
  -----------------
 ![screenshot](images/binary_search_img.jpg)
  -----------------
 
 
-# Dependencies
+# Dependencies 🔌
 
 | Python | 
 | ------ | 
@@ -35,12 +35,13 @@ pip install customtkinter
 ### Tips 📝
 - Install Python from www.python.org
 - Have a running environment for python, we recommend visual studio codes 
+- If have any problems or questions please contact us via [Telegram](https://t.me/Issachar_0)
 
 # Github Repository
 - [Public Repository](https://github.com/issachar-j/ict-assignment.git)
 
 # Team (linked to personal telegram account)
-- [Yisakor Eyob](https://t.me/Issachar_0)
-- [Nathan Bekele](https://t.me/Nate_bt)
-- [Medan Zelealem](https://t.me/LoveisJesus7)
-- [Arsema Haileysus](https://t.me/T2e7mT1e9k)
+- [Yisakor Eyob from 12C](https://t.me/Issachar_0)
+- [Nathan Bekele from 12C](https://t.me/Nate_bt)
+- [Medan Zelealem from 12C](https://t.me/LoveisJesus7)
+- [Arsema Haileysus from 12C](https://t.me/T2e7mT1e9k)
