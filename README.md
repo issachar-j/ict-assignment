@@ -41,7 +41,7 @@ pip install customtkinter
 - [Public Repository](https://github.com/issachar-j/ict-assignment.git)
 
 # Team (linked to personal telegram account)
-- [Yisakor Eyob from 12C](https://t.me/Issachar_0)
-- [Nathan Bekele from 12C](https://t.me/Nate_bt)
-- [Medan Zelealem from 12C](https://t.me/LoveisJesus7)
-- [Arsema Haileysus from 12C](https://t.me/T2e7mT1e9k)
+- [Yisakor Eyob -- 12C](https://t.me/Issachar_0)
+- [Nathan Bekele -- 12C](https://t.me/Nate_bt)
+- [Medan Zelealem -- 12C](https://t.me/LoveisJesus7)
+- [Arsema Haileysus -- 12C](https://t.me/T2e7mT1e9k)
