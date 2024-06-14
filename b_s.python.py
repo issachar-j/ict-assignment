@@ -57,7 +57,7 @@ entry_target.pack(padx=10, pady=10, anchor=tk.W)
 
 
 sorted_d = customtkinter.CTkLabel(master=root, text="Sorted list:", font=('Helvetica', 15))
-sorted_d.pack(padx=10, pady=10, anchor=tk.CENTER)
+sorted_d.pack(padx=10, pady=10, anchor=tk.W)
 
 
 search_button = customtkinter.CTkButton(master=root, text="Search", command=search, font=('Helvetica', 14))

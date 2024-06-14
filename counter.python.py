@@ -59,13 +59,13 @@ count_button.pack(pady=5)
 
 # Create a label to display the result
 result_label_p =  customtkinter.CTkLabel(master=root, text="paragraph Count: 0", font=('Helvetica', 14))
-result_label_p.pack(pady=5)
+result_label_p.pack(pady=5, padx=10, anchor=tk.W)
 result_label_s =  customtkinter.CTkLabel(master=root, text="sentence Count: 0", font=('Helvetica', 14))
-result_label_s.pack(pady=5)
+result_label_s.pack(pady=5, padx=10, anchor=tk.W)
 result_label =  customtkinter.CTkLabel(master=root, text="Word Count: 0", font=('Helvetica', 14))
-result_label.pack(pady=5)
+result_label.pack(pady=5, padx=10, anchor=tk.W)
 result_label_c =  customtkinter.CTkLabel(master=root, text="character Count (with no space): 0", font=('Helvetica', 14))
-result_label_c.pack(pady=5)
+result_label_c.pack(pady=5, padx=10, anchor=tk.W)
 
 # Run the application
 root.mainloop()
