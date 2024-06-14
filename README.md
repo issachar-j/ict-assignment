@@ -13,8 +13,11 @@ A fully hard coded implementation of the binary search algorithm.
 
 # Dependencies
 
-| Python | | Customtkinter |
-| ------ | | ------------- |
+| Python | 
+| ------ | 
+
+| Customtkinter |
+| ------------- |
 
 ```bash
 - Install Python from www.python.org
