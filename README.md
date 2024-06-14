@@ -36,7 +36,8 @@ pip install customtkinter
 - Install Python from www.python.org
 - Have a running environment for python, we recommend visual studio codes 
 
-# [Github Repository](https://github.com/issachar-j/ict-assignment.git)
+# Github Repository
+- [Public Repository](https://github.com/issachar-j/ict-assignment.git)
 
 # Team (linked to personal telegram account)
 - [Yisakor Eyob](https://t.me/Issachar_0)
